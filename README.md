@@ -17,7 +17,7 @@ Team Figma : https://www.figma.com/file/TAEtcljsu3w3VIKIkLjMtS/%EA%B0%9D%ED%94%8
     김종호 : 통계 page + 통계 내용 선택 page
     김형석 :여행 프로젝트 별 세부 정보 + 수정 page
     문정우 : Home & 새 여행 입력 page
-    공통 : DB 구축 및 카테고리 수정 page
+    공통 : DB 구축 / 카테고리 수정 page / 하단 탭 / 레이아웃 설정
 
 # application name pallet(pal+let's travel)
 
